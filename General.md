@@ -45,8 +45,10 @@
 ## Resource
 ### Machine Learning in HEP
 
-* [The Machine Learning summer school](https://indico.cern.ch/event/687473/)
+#### Highly recommend
+* [IML Resource](https://github.com/iml-wg/HEP-ML-Resources/blob/master/README.md)
 
+* [The Machine Learning summer school](https://indico.cern.ch/event/687473/)
 
 ### HEP Summer schools
 #### Basic level
@@ -72,7 +74,7 @@
    |Ya-Feng| Open data with HWW analysis| ATLAS |
    
 * [CERN-Fermilab Summer school](http://hcpss.web.cern.ch/hcpss/) 
-   * Alumnus: Meng-Ju Tsai (2018)
+   * Alumnus: Meng-Ju Tsai (2018 @ Fermilab)
 
 * [DESY Summer school](https://summerstudents.desy.de/)
 
