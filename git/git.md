@@ -13,9 +13,9 @@ description: 利用一個簡單的比喻來解釋 git 在 local 的運作方式�
 「我等一下拍照要拍進這張桌子」像是這樣。  
 選好要拍什麼東西之後，按下快門，就會拍下照片放入相簿。
 
-{% hint style="warning" %}
+
 為貼近生活經驗，比喻內容對於實際git的運作方式會有描述不夠精確的地方，重點是希望大家能藉此以理解基本概念！
-{% endhint %}
+
 
 ## **對應到git指令/術語：**
 
@@ -81,7 +81,7 @@ git add file1 file2
 git reset HEAD myfile
 ```
 
-{% hint style="info" %}
+
 **把檔案移出Staging Area 為什麼不是用 git rm？**
 
 git rm 的用途是把「在repository有過記錄（曾經commit過）但已經不在working space裡」的檔案從repository裡刪除。  
