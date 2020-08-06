@@ -1,62 +1,31 @@
-# README - Content of hep_tutorial
+# Introduction
 
-This page will be updated and try to use the same format as [ATLAS Analysis Software Tutorial](https://atlassoftwaredocs.web.cern.ch/ABtutorial/)
-* Will try to build with Jekyll and Bootstrap
+## Contacts
 
+Any questions or comments about this tutorial are welcome!
 
-## [General.md](./General.md)
+* **Yu-Hsin Chan:** amyjan0572@gmail.com
+* **Meng-Ju Tsai:** meng-ju.tsai@cern.ch
 
-* Introduction to NTHU HEP group
+## Overview
 
-* Introduction to HEP
-  * Basic knowledge and resources for Experimental particle physics
-  * Topics: Detector, trigger, ... 
+In this tutorial, we introduce topics and technical details related to physics analysis in the ATLAS experiment at the LHC. We also **include hand-on sessions to follow and start your analysis!**
 
-* Basic linux tutorial and resource
-  * Usage of .bashrc
-  * Some commands used in lxplus
+The tutorial is separated into several parts. 
 
-* Cluster and service from CERN and NTHU
-  * Introduction to lxplus, NTHU cluster
-  * Subscribe working folder in the lxplus
-  * CERNBox
-  * BATCH & SLURM
+\*\*\*\*[**NTHU HEP group**](intro.md) will summarize the information about the NTHU HEP group led by Jennifer. 
 
-* ATLAS Software tutorial and resources
-  * CERN Service status
-  * Git
-  * Derivation, Grid certificate, BigPanda, RUCIO
-  * AMI, PMG, Xsec info
-  * GRL, PRW
-  
-* From Geneva airport to CERN and lives @ CERN
-  * Cover travel information, maps in and near CERN, tpg, SBB
-  * Where to get CERN ID card
-  
-* Resource
-  * IML
-  * Summer schools, CERN, DESY, CERN-Fermilab, ISTEP, IoPAS, PISA, ...
+\*\*\*\*[**Basic knowledge**](basic_knowledge/) will briefly introduce the knowledge of particle physics in the ATLAS experiment. 
 
-## [HWW_Analysis.md](./HWW_Analysis.md)
+\*\*\*\*[**Connect to the server**](connect_to_the_server/) ****is a section to give an introduction to the Linux system and the computing resources we used at CERN and in NTHU group. 
 
-* Introduction to HWW group and analysis framework
-  * Weekly meeting & workshops & analysis paper/notes
-  * Twiki and tutorial pages for HWW PxAOD and analysis framework
-  * Details and instructions about CAF and PxAOD
-  * From TQSampleFolder to beautiful plots with Python & ROOT
-  * Plotting tool working with QFramework or nTuple/TTree
-  * Efficiently generate slides containing large amount of plots with Python and Latex
-  * Tutorial to EventDisplay & BDT & Fitting
-  * Analysis details of HWW 
-  
-    * What is an event/data/mc/signal/background/weight/ScaleFactor/filter/phase space/
-    * The main bkg for our analysis
-    * Introduction to basic objects (lep/jet/MET)
-    * What is SR/CR, samples we used, the issues we faced
-    * What’s the limit for our analysis now
-    * What’s normalization factor/nominal/systematics/
-    * What we could contribute in the analysis team
-    
-## [monoHbb_Analysis.md](./monoHbb_Analysis.md)
+\*\*\*\*[**ROOT**](root/) will talk about how to work with ROOT and produce results with it. 
 
-* Introduction to monoHbb group and analysis framework
+\*\*\*\*[**Work with git**](git/) ****give a quick review of the commands used for git.
+
+\*\*\*\*[**Physics analysis in ATLAS**](physics_analysis/) provides a series of introductions about the analyses, which we involved in the ATLAS experiment, and their analysis frameworks. Several meetings and tutorial sections are included in the tutorial, which will help you quickly begin your researches. 
+
+Moreover, we also try to teach you with our experiences working on  physics analysis and introduce some jargon used in this field. 
+
+[**Resources**](resource/) ****provide many links to different activities important to improve your skills and survive in the large collaboration. We also provide some tips about how to make your slides and posters. Furthermore, a Latex thesis template is also included in this section. 
+
